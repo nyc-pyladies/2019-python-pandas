@@ -1,6 +1,9 @@
 # 2019-python-pandas
 NYC PyLadies Python Pandas Workshop (May 2019)
 
+# Meetup Event
+https://www.meetup.com/NYC-PyLadies/events/259310784/
+
 # Pre-requirements
 We expect a working knowledge of Python in order to be able to follow along with the workshop. If you are an absolute beginner in Python and aren't familiar with Python syntax, this workshop might not be suited for you.
 
