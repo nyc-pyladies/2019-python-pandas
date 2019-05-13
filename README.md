@@ -38,3 +38,6 @@ Install these libraries by running `pip install` on your laptop:
 - Create a new notebook
 - Try importing the newly installed libraries in a cell and execute the cell to test
 - Please *debug* any issues that occur so you're ready to start the workshop!
+
+## Step 4: Download the data file
+Download the mock_treatment_starts_2016.csv file from this repo. **NOTE** The data is entirely made up and is in no way related to any real patient data we use at Flatiron. 
